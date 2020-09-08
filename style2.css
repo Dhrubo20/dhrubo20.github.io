@@ -5,6 +5,7 @@ html, body {
 
 html {
   display: table;
+  scroll-behavior: smooth;
 }
 
 body {
